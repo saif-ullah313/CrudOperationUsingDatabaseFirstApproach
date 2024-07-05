@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOperationUsingDatabaseFirstApproach", "CrudOperationUsingDatabaseFirstApproach\CrudOperationUsingDatabaseFirstApproach.csproj", "{32C63497-3E7B-4BB4-8104-3D392FEE85DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C63497-3E7B-4BB4-8104-3D392FEE85DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C63497-3E7B-4BB4-8104-3D392FEE85DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C63497-3E7B-4BB4-8104-3D392FEE85DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C63497-3E7B-4BB4-8104-3D392FEE85DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B368626-54E4-47CC-AE31-375A341794F0}
+	EndGlobalSection
+EndGlobal
